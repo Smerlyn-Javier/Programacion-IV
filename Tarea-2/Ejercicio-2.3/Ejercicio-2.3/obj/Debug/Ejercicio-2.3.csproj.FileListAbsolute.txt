@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\bin\Debug\Ejercicio-2.3.exe.config
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\bin\Debug\Ejercicio-2.3.exe
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\bin\Debug\Ejercicio-2.3.pdb
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\obj\Debug\Ejercicio-2.3.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\obj\Debug\Ejercicio_2._3.Form1.resources
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\obj\Debug\Ejercicio_2._3.Properties.Resources.resources
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\obj\Debug\Ejercicio-2.3.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\obj\Debug\Ejercicio-2.3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\obj\Debug\Ejercicio-2.3.exe
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\obj\Debug\Ejercicio-2.3.pdb
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.3\Ejercicio-2.3\obj\Debug\Ejercicio_2._3.Form2.resources

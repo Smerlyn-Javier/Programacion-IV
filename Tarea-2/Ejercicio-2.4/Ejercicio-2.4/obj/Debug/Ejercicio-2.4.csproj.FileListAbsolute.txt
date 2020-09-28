@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\bin\Debug\Ejercicio-2.4.exe.config
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\bin\Debug\Ejercicio-2.4.exe
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\bin\Debug\Ejercicio-2.4.pdb
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio-2.4.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio_2._4.Estudiante.resources
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio_2._4.Form1.resources
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio_2._4.Properties.Resources.resources
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio-2.4.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio-2.4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio-2.4.exe
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio-2.4.pdb
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio_2._4.Empleados.resources
+\\Mac\Home\Desktop\PROGRAMACION IV\Tarea-2\Ejercicio-2.4\Ejercicio-2.4\obj\Debug\Ejercicio_2._4.Dashboard.resources
